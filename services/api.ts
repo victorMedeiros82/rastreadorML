@@ -1,6 +1,6 @@
 import type { Tracker, Product, NewTrackerData } from '../types';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://rastreadorml.onrender.com';
 
 // Helper para tratar as respostas da API
 const handleResponse = async <T,>(response: Response): Promise<T> => {
