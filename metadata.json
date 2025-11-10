@@ -1,0 +1,5 @@
+{
+  "name": "Rastreador Mercado Livre com Alertas no WhatsApp",
+  "description": "Uma aplicação web para criar rastreadores de produtos no Mercado Livre. Defina seus critérios de busca e receba notificações no WhatsApp quando novas ofertas que correspondem às suas especificações forem encontradas.",
+  "requestFramePermissions": []
+}
